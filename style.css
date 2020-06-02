@@ -190,3 +190,15 @@ a:hover {
 }
 
 /* #7D40A8 */
+
+/* a partir de aca es una copia del css de newForm en un intento de unificar el codigo */
+
+/* body {
+    display: grid;
+    background-size: cover;
+  
+    background-color: rgb(216, 128, 128);
+    background-image: url(images/bg-intro-desktop.png);
+    /* background-color: rgba(22, 17, 17, 0.7);  }*/
+   
+  
